@@ -6,7 +6,6 @@ Ce projet est un simple programme console en C# qui permet à l'utilisateur de c
 Le programme offre un menu interactif avec les options suivantes :
 - Convertir des degrés Fahrenheit en degrés Celsius
 - Convertir des degrés Celsius en degrés Fahrenheit
-- Quitter le programme
 
 ## Comment utiliser
 
