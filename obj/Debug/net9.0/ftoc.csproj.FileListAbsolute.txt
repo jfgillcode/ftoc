@@ -1,0 +1,15 @@
+/home/mozmoska/Code/C#/ftoc/bin/Debug/net9.0/ftoc
+/home/mozmoska/Code/C#/ftoc/bin/Debug/net9.0/ftoc.deps.json
+/home/mozmoska/Code/C#/ftoc/bin/Debug/net9.0/ftoc.runtimeconfig.json
+/home/mozmoska/Code/C#/ftoc/bin/Debug/net9.0/ftoc.dll
+/home/mozmoska/Code/C#/ftoc/bin/Debug/net9.0/ftoc.pdb
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.GeneratedMSBuildEditorConfig.editorconfig
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.AssemblyInfoInputs.cache
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.AssemblyInfo.cs
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.csproj.CoreCompileInputs.cache
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.sourcelink.json
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.dll
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/refint/ftoc.dll
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.pdb
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ftoc.genruntimeconfig.cache
+/home/mozmoska/Code/C#/ftoc/obj/Debug/net9.0/ref/ftoc.dll
